@@ -1,0 +1,6 @@
+python-dotenv
+mysql-connector-python
+pandas
+json
+ast
+tqdm
