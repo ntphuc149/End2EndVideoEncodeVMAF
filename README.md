@@ -218,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Truong-Phuc Nguyen**
-- GitHub: [@ntphuc149](https://github.com/ntphuc149c)
+- GitHub: [@ntphuc149](https://github.com/ntphuc149)
 
 ## 🙏 Acknowledgments
 
